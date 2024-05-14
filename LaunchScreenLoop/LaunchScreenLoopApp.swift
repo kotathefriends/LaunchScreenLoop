@@ -11,7 +11,7 @@ import SwiftUI
 struct LaunchScreenLoopApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchScreenLoopView()
         }
     }
 }
